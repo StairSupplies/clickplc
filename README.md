@@ -1,6 +1,3 @@
-clickplc [![Build Status](https://dev.azure.com/jjeffryes/jjeffryes/_apis/build/status/numat.clickplc?branchName=master)](https://dev.azure.com/jjeffryes/jjeffryes/_build/latest?definitionId=3&branchName=master)
-========
-
 Python ≥3.6 driver and command-line tool for [Do More PLCs](https://www.automationdirect.com/adc/overview/catalog/programmable_controllers/do-more_series_(brx,_h2,_t1h)_plcs_(micro_modular_-a-_stackable)).
 
 <p align="center">
